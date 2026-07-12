@@ -1,6 +1,6 @@
 ---
 title: One Thing Led to Another
-number: 24
+number: 25
 author: Wojtek Treyde
 author_link: https://wtreyde.github.io
 retreat: 3
