@@ -24,8 +24,8 @@ amounts of biomass at the Earth's surface over the last 2.5 billion
 years. Although there is an almost universal consensus that traces of
 life dating back 3.5 billion years exist in the Pilbara region of
 Western Australia, and even older potential traces have been found in
-Greenland---one of the oldest and best-preserved pieces of the Earth's
-crust, which once formed the seafloor of ancient oceans---the evidence
+Greenland—one of the oldest and best-preserved pieces of the Earth's
+crust, which once formed the seafloor of ancient oceans—the evidence
 for life's very beginnings has largely disappeared [^1][^2][^3]. Because the Earth's earliest geological record is so poorly
 preserved, we lack empirical evidence for how life was created, and many
 ideas about abiogenesis are instead investigated through laboratory
