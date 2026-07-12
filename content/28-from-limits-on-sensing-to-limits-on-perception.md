@@ -21,7 +21,7 @@ Here we can read the posterior entropy as no more than the prior entropy $H(Y)$ 
 1. *Decrease the prior uncertainty*. This could be achieved by learning some new theory that allows you to rule out potential values for $Y$ *a priori*. For example, imagine you learn that $Y$ must be a positive number, where previously you thought that it could be positive or negative. With this new knowledge, you've managed to halve the size of your prior entropy!
 2. *Increase mutual information*. Given $X$, the mutual information is not something we can increase -- it is just a fixed quantity. But recall that $X$ is a function of $P$ controlled by our sensing system $f$. This means that by changing $f$, we can in turn change $X$ so as to increase its mutual information with $Y$.
 
-![[assets/oisin.png]]
+<img class="imagecenter" src="assets/28-from-limits-on-sensing-to-limits-on-perception.png" alt="model diagram">
 
 ## From limits on sensing to limits on perception
 Finally, what are the limits on sensing, and how do they relate to those on perception? While there are some processes in the universe that can't be sensed even in principle, there are also more practical *conditional* limitations, describing the sensing limits as a function of some features of the sensing system, which will be our focus here. Specifically, we'll focus on two familiar limitations, and provide a path for moving beyond these limitations by reframing them in terms of perception rather than sensing.
