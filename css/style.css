@@ -351,6 +351,21 @@ code {
 .footnote {
     font-size: 0.85rem;
 }
+
+/* Render inline footnote markers as bracketed refs, e.g. [1],
+   preceded by a non-breaking space and slightly greyed out. */
+.footnote-ref {
+    color: var(--meta-color);
+    text-decoration: none;
+}
+
+.footnote-ref::before {
+    content: "\00a0[";
+}
+
+.footnote-ref::after {
+    content: "]";
+}
 /* PDF link (small, unobtrusive) */
 .pdf-link {
     text-align: right;
