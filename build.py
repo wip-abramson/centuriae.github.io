@@ -155,7 +155,8 @@ def build():
             text = f.read()
 
         md = markdown.Markdown(
-            extensions=["meta", "fenced_code", "codehilite", "footnotes"]
+            extensions=["meta", "fenced_code", "codehilite", "footnotes", "pymdownx.arithmatex"],
+            extension_configs={"pymdownx.arithmatex": {"generic": True}},
         )
         html_content = md.convert(text)
         html_content = process_pdf_markers(html_content)
