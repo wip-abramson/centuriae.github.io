@@ -16,7 +16,7 @@ But why are we not fixing the engine? Because we don’t have a good biomarker o
 
 ### The measurement problem in drug discovery
 
-In the last five years, more than 5,000 compounds have entered clinical development[^2]. Yet, the rate of approval for compounds entering phase I trials is just 10%. This process is catastrophically expensive and extremely time consuming. For just one drug, the cost of bringing it to market is estimated at \~$3 billion, and this takes on average 10-15 years[^3].
+In the last five years, more than 5,000 compounds have entered clinical development[^2]. Yet, the rate of approval for compounds entering phase I trials is just 10%. This process is catastrophically expensive and extremely time consuming. For just one drug, the cost of bringing it to market is estimated at ~$3 billion, and this takes on average 10-15 years[^3].
 
 This failure is costing *hundreds of billions* of dollars. Meanwhile, the burden of disease is still astronomically high. Cardiovascular disease remains the leading cause of death[^4], and roughly 1 in 10 people over the age of 65 are currently living with a neurodegenerative disease like Alzheimer’s or Parkinson’s.  
    
@@ -87,8 +87,8 @@ We are at a pivotal point, where progress is rapid but challenges are substantia
  
 
 [^1]: Wallace DC. A mitochondrial bioenergetic etiology of disease. *J Clin Invest.* 2013;123(4):1405–1412. doi:10.1172/JCI61398  
-[^2]: IQVIA Institute for Human Data Science. *Global Trends in R\&D 2026\.*  
-[^3]: Schuhmacher A, Gassmann O, Hinder M. Changing R\&D models in research-based pharmaceutical companies. *J Transl Med.* 2016;14:105. doi:10.1186/s12967-016-0838-4  
+[^2]: IQVIA Institute for Human Data Science. *Global Trends in R&D 2026\.*  
+[^3]: Schuhmacher A, Gassmann O, Hinder M. Changing R&D models in research-based pharmaceutical companies. *J Transl Med.* 2016;14:105. doi:10.1186/s12967-016-0838-4  
 [^4]: Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2023 (GBD 2023\) Causes of Death and Nonfatal Causes Mapped to ICD Codes. Seattle, United States of America: Institute for Health Metrics and Evaluation (IHME), 2025\.  
 [^5]: Zinman B, Wanner C, Lachin JM, et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. *N Engl J Med.* 2015;373(22):2117–2128. doi:10.1056/NEJMoa1504720  
 [^6]: Banerjee D, Mani A. Obesity's systemic impact: exploring molecular and physiological links to diabetes, cardiovascular disease, and heart failure. *Front Endocrinol.* 2025;16:1681766. doi:10.3389/fendo.2025.1681766  
