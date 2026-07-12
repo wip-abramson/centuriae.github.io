@@ -2,7 +2,7 @@
 title: From Limits on Sensing to Limits on Perception
 number: 30
 author: Oisín Nolan
-author_link: nl.linkedin.com/in/oisín-nolan
+author_link: https://nl.linkedin.com/in/oisín-nolan
 retreat: 3
 ---
 
