@@ -237,7 +237,7 @@ def build():
         author_display = f"<a href='{post['author_link']}' target='_blank' rel='noopener noreferrer' style='color: inherit; text-decoration: underline; text-decoration-color: var(--border-color);'>{final_author}</a>" if post['author_link'] else final_author
 
         num_display = f"<span style='font-family: var(--font-mono);'>{post['number']}</span> &nbsp; | &nbsp; " if post['number'] else ""
-        meta_html = f"{num_display}By {author_display} &nbsp; | &nbsp; Last updated: {post['git_info']['date']} &nbsp; | &nbsp; {commit_display}"
+        meta_html = f"{num_display}By {author_display}"
         
         # Render main HTML
         final_html = layout_template.safe_substitute(
