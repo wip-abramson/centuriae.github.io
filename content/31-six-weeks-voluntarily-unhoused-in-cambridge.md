@@ -11,15 +11,15 @@ I slept under the stars alongside tranquil dams, and in a wind-shook tent beside
 
 In the following sections, I reflect deeper on some of the reasons I undertook this experiment, and some of the things I learned, grouped into nine themes:
 
-1. Money
-2. Freedom
-3. Nature
-4. Minimalism
-5. Resilience
-6. Timing
-7. Romance
-8. Humour
-9. Privilege
+1. [Money](#money)
+2. [Freedom](#freedom)
+3. [Nature](#nature)
+4. [Minimalism](#minimalism)
+5. [Resilience](#resilience)
+6. [Timing](#timing)
+7. [Romance](#romance)
+8. [Humour](#humour)
+9. [Privilege](#privilege)
 
 Before we get going, here are some photos that convey an entirely overromanticized view of the experience (the reality was more like a bad night's sleep and hiding away in a corner of the office). There is also a FAQ section at the end with some common practical questions about my setup.
 
@@ -36,7 +36,7 @@ Before we get going, here are some photos that convey an entirely overromanticiz
 </div>
 
 With that context, let's start with the first reason: saving money.
-## Money
+<h2 id="money">Money</h2>
 
 >"Money is not going to solve all of your problems, but it's going to solve your money problems." – The Almanack of Naval Ravikant
 
@@ -51,24 +51,24 @@ In Cambridge I was staying in a 6-bedroom college-owned house, paying £670 a mo
 I also think about how in South Africa I had a beautiful 1-bedroom sea-view apartment in Sea Point, where I could walk down 100m for a swim in the ocean on a whim, and have a 10 minute bike ride into the office, for R11,000 a month. I felt and still feel uncomfortable about the privilege of that setup, surrounded by homeless people sleeping on the promenade less than a kilometre away. But yet then here I am paying 30% more than that, for a tiny room, towards an already hugely wealthy college, where there are so many unused buildings and rooms around. More of this sociopolitical commentary later.
 
 So in essence my homelessness experiment enabled saving ~R15,000 a month on rent, for three months total (six weeks in Cambridge, and a prior six weeks between Scotland and South Africa for my friend's bachelors and wedding) – sizable savings that can hopefully be put to good use for the world. This idea of freedom from not having to pay rent is also why I love the idea of living in a (electric) campervan one day. It feels like it could be a scalable solution to housing concerns about land redistribution that avoids the complexities of property and land ownership – allowing the land to remain as a shared resource.
-## Freedom
+<h2 id="freedom">Freedom</h2>
 
 > "There is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun." – Christopher McCandless, Into the Wild
 
 I have been inspired by books of freedom and adventure like *Into The Wild*, *Siddhartha*, *Narcissus and Goldmund* and *The Alchemist*. I remember listening on repeat to The Fray's album *The Fray Is Back* whilst reading *Into The Wild* and associate that with my gap year to fly to New Zealand without a return ticket in 2024, after feeling a similar craving for freedom and adventure. I also think sometimes of the section of Forrest Gump when he runs the length of the USA, and when asked why he replies: 'I just felt like running!' I think part of it is a sense of freedom.
 
 During my homeless stint in Cambridge, there was certainly a sense of freedom about choosing where to sleep each night. When I had tennis scheduled with a friend for 6am the following morning, I could choose to just set up my stretcher by the cricket pitch alongside it. Or I could choose to sleep at the office so I'm closer to work and a run with my friend the next morning. But I also became mindful about how this lent itself to an 'efficiency' mindset that can be unhealthy – what's wrong with just taking an extra 15 minutes to get there the next morning?
-## Nature
+<h2 id="nature">Nature</h2>
 
 > "Who looks upon a river in a meditative hour, and is not reminded of the flux of all things?" – Ralph Waldo Emerson, Nature
 
 Part of the allure for me was removing barriers to spending more time in nature, something I know does my soul so much good, but I can feel reluctant to prioritize due to the convenience of staying in my room. Without a set place to return to, I hoped I would be forced to spend more time in public spaces like parks and nature reserves. As a result I experienced more sunrises and sunsets than I would have, noticed the sounds of the birds more, became aware of the phase of the moon, encountered foxes scurrying and the sound of the Muntjac Deer's howl. Whilst this was true, I was also humbled by the 4am summer sunrise light and loud sounds and insects biting in affecting my sleep when outdoors. Towards the end of the experiment, I was thus spending more and more nights sheltered in the relative comfort of the unused office rooms.
-## Minimalism
+<h2 id="minimalism">Minimalism</h2>
 
 > "Very little is needed to make a happy life; it is all within yourself, in your way of thinking." – Marcus Aurelius, Meditations
 
 I have for many years been strongly influenced by philosophies of stoicism, buddhism and minimalism, which promote the virtues of simplicity, moderation and contentment. Part of my experiment was to put to empirically test for myself the degree to which a stable home affects one's well-being – with the important caveat (not afforded to most) of having the financial security of knowing I could always return to leased accommodation at my college whenever I decided to. I came up with a satisfying minimal camping setup – camping cot, sleeping bag, blowup pillow, bivvy bag, thermals, a sleep mask (for the 4am sun), ear plugs – all fitting into a single discreet pannier bag that fit on my bike rack. It's pretty cool that an entire mobile home can pack away into a single pannier bag atop a bike rack. Ultimately, it proved I could be okay with just this setup, but it did come at a cost – of sleep, of connection with others, of peace of mind. It has filled me with more gratitude upon having my own space with a comfortable bed again.
-## Resilience
+<h2 id="resilience">Resilience</h2>
 
 >  "Is this the condition I so feared?" – Seneca, On Festivals and Fasting
 
@@ -77,19 +77,19 @@ Someone once pointed out to me that discomfort doesn't seem to faze me much. Thi
 Also, whilst I knew it would be uncomfortable, it was a good lesson that a lot of the lows  (loneliness, existentialism) were states I experienced even when housed – and which were actually just part of the natural seasons and impermanence of life's ups and downs, ebbs and flows (*anicca* in Pali).
 
 However, this is not to say one should always keep oneself in a state of discomfort. It's enough to know deeply (if you're honest to oneself, not just as a story you tell yourself) that you genuinely would be fine in these scenarios. But then I don't believe constantly voluntarily being in hardship or discomfort would be reasonable or have any value. Doing the PhD whilst homeless was hard. I experienced loneliness and lack of connection, somewhat removed from people and society, by needing to decide where to sleep each night, and being secretive and guarded, and this held me back from my typical ideals of striving to a selfless and egoless nature.
-## Timing
+<h2 id="timing">Timing</h2>
 
 > "I can always go back to being a shepherd ... But maybe I'll never have another chance to get to the Pyramids in Egypt" – Paulo Coelho, The Alchemist
 
 Another reason for doing this now, was that Cambridge made it so easy – so if ever there was a time, it was now. I had safe fallback spaces like the office and the college, so much university-wide well-being support, a very safe city. This experiment would not have felt possible in SA safety-wise. And moreover would have felt extremely distasteful given so many destitute people on the streets in real poverty. But more philosophically, it's also a reflection of the countless people I could count on to house me if I ever really needed, a luxury not afforded to most.
 
 Trying this out in Cambridge also felt fitting, as a university-town notorious for students doing strange and unconventional things – like Lord Byron having a pet bear in his room (college rules forbade dogs, but said nothing about bears).
-## Romance
+<h2 id="romance">Romance</h2>
 
 > "When love beckons you, follow him. Though his ways are hard and steep." – Kahlil Gibran, The Prophet
 
 It would be remiss of me not to mention one additional motivating factor that prompted me to do this experiment: my hopes of it enabling a romantic pursuit of mine. With the person in question living a long train ride away, I hoped to proactively counter the objection of the complexity of long-distance, since the extra savings and psychological freedom enabled by no ties to a lease would remove the financial and psychological barriers to making regular train journeys. I also lightheartedly thought it could come across as a romantic gesture – giving up worldly attachments in the name of romance. Whilst it did not pan out quite like that (another quote from The Prophet: "*do not try to direct the course of love, for love, if it finds you worthy, directs your course"*), I can have no regrets that I did not give it my all.
-## Humour
+<h2 id="humour">Humour</h2>
 
 > "I don't take myself too seriously! That makes me happy." — Dalai Lama XIV
 
@@ -98,7 +98,7 @@ I realize another reason for undertaking the experiment was as a way of remindin
 I had some very humourous encounters during this period. Firstly, a story. When I arrived at Cambridge in October last year, I was meditating on my yoga mat in my college gardens, wrapped up in a blanket and beanie, when a porter walked fast towards me saying sternly: 'That's it, you need to get out of here, you can't be staying here'. Turns out I looked homeless, and my college had recently had issues with vagrants on the property. The porter was rather embarrassed when I pulled out my student card to prove I was in fact a student of the college. The porters still laugh with me about this. Little would they know that less than a year later I would actually prove that porter right! It felt rather comical that I actually did become a homeless student staying on the college grounds for a couple of nights.
 
 Other funny stories include being sung a Twinkle Twinkle Little Star lullaby by a bemused couple who walked past me lying on my stretcher in the woods watching an episode of *Normal People* on my iPad; or when  two men came to smoke weed atop Castle Mound at 5am and encountered me sleeping there, and after I politely declined to join them and insisted I was sleeping there voluntarily (not out of need), which they did not believe – the one man proceeded to offer to introduce me to his boss and help me land a job as a punt tour guide – provided I take a shower and sharpen up a bit first!
-## Privilege
+<h2 id="privilege">Privilege</h2>
 
 > "The rentier class ... the people who made money simply by owning something that others needed, and charging for the use of it: this is rent in its economic meaning. Rent goes to people who are not creators of value, but predators on the creation and exchange of value." – Kim Stanley Robinson, The Ministry for the Future
 
