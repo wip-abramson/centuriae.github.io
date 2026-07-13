@@ -12,7 +12,7 @@ retreat: 3
 >
 > This one is offered as a starting point and an invitation. Approach these words with curiosity and bring the expertise of your own lived experience. Orient yourself within the landscape I have mapped, then go off into the wilderness. Chart your own course, follow your own inquiries and leave some breadcrumbs for others to follow in your footsteps.
 >
-> It builds on and augments my playful exhibition [Identity and Interaction in Complex Human Systems](https://iiexhbition.studio). 
+> It builds on and augments my playful exhibition [Identity and Interaction in Complex Human Systems](https://iiexhibition.studio). 
 
 ## Embodied Individuals
 
