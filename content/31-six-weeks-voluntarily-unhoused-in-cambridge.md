@@ -10,6 +10,7 @@ I've recently returned to conventional 'housed' living, after a six week experim
 I slept under the stars alongside tranquil dams, and in a wind-shook tent beside the river; on a hilltop overlooking the city lights, and on a cricket pitch beneath the full moon; took shelter in empty gym studios and unused office rooms; woke up in the dark woods to howling deer and scurrying foxes, and to the sound of the birds and a 4am sunrise atop a multi-story public sculpture; all whilst continuing with my usual PhD life.
 
 In the following sections, I reflect deeper on some of the reasons I undertook this experiment, and some of the things I learned, grouped into nine themes:
+
 1. Money
 2. Freedom
 3. Nature
