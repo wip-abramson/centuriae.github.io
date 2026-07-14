@@ -1,5 +1,5 @@
 ---
-title: The Process of Becoming: Making Sense of our Technologically Mediated Reality
+title: A Process of Becoming: Making Sense of our Technologically Mediated Reality
 number: 32
 author: Will Abramson
 author_link: https://thinking.drwip.com
@@ -12,11 +12,11 @@ retreat: 3
 >
 > This one is offered as a starting point and an invitation. Approach these words with curiosity and bring the expertise of your own lived experience. Orient yourself within the landscape I have mapped, then go off into the wilderness. Chart your own course, follow your own inquiries and leave some breadcrumbs for others to follow in your footsteps.
 >
-> It builds on and augments my playful exhibition [Identity and Interaction in Complex Human Systems](https://iiexhibition.studio). 
+> This map builds on and augments my playful exhibition [Identity and Interaction in Complex Human Systems](https://iiexhibition.studio). 
 
 ## Embodied Individuals
 
-Let me begin, with the individual, the atomic, bounded agent of change in the environment they are embedded.
+Let me begin with the individual, the atomic, bounded agent of change in the environment they are embedded.
 
 The only assumption that I want to make about the individual is that they are embodied and navigating through time and the three dimensions of physical space.
 
@@ -32,9 +32,9 @@ The body acts as a membrane that separates and mediates the interaction between 
 
 Bodies provide individuals with a set of appendages and affordances through which to sense , perceive and act on their environment. 
 
-Environment define limits and constraints over possibilities of embodied individuals to act upon it.
+Environments define limits and constraints over the possibilities for embodied individuals to act upon it.
 
-Individuals explore the environment they inhabit with their bodies, sensing into it and acting upon it. Discovering and rubbing up against its constraints and their possibilities for acting within them. They engage in a continous process of discovery, about the actions they are capable of and the effects of these actions of their environment.
+Individuals explore the environment they inhabit with their bodies, sensing into it and acting upon it. Discovering and rubbing up against its constraints and their possibilities for acting within them. They engage in a continous process of discovery, about the actions they are capable of and the effects of these actions on their environment.
 
 The individual and the environment are in a dynamic, interactive relationship in which both the individual and the environment are shaped. 
 
@@ -46,7 +46,7 @@ Together they co-define the field of possibility over how their river of time co
 
 *Thought: Agents vs individuals. Individuals are a bounded being, separate from the world. Agents are actors is capable of selecting and performing actions. All living individuals are agents, with some degree of agency.*
 
-*Ref: Interesting centuriniae essay on the limits of sensing and perception by [Oisín Nolan](https://nl.linkedin.com/in/oisín-nolan) https://centuriae.github.io/posts/30.html*
+*Trail: Interesting fellow centuriniae essay on the limits of sensing and perception by [Oisín Nolan](https://nl.linkedin.com/in/oisín-nolan): [https://centuriae.github.io/posts/30.html](https://centuriae.github.io/posts/30.html)*
 
 ## Meaning
 
@@ -62,9 +62,9 @@ In exploring the environment and discovering the usefulness of the resources, in
 
 The environment is transformed, from the perspective of the individual, into a subjective world of meaning within which they orient themselves. Full of rewards to seek out and risks to avoid. Action potentials to move towards and away from.
 
-Embodied individuals are not merely embedded in this world of meaning, they enact these worlds. With every action they select they calibrate their world of meaning as it unspools out infront of them.
+Embodied individuals are not merely embedded in a world of meaning, they enact these worlds. With every action they select they calibrate their world of meaning as it unspools out infront of them.
 
-*Book: Enaction: Toward a New Paradigm for Cognitive Science*
+*Book: [Enaction: Toward a New Paradigm for Cognitive Science](https://direct.mit.edu/books/edited-volume/3346/EnactionToward-a-New-Paradigm-for-Cognitive)*
 
 *Thought: This is something like primary meaning. The meanings of staying alive. Intelligence plays a meta game, that of exploring, discovering and imagining new meanings that enrich the game of life and create new possibilities for playing and new rules under which to play by.*
 
@@ -80,9 +80,11 @@ Importantly, individuals exist for finite periods of time.
 
 They are born. They live. They die.
 
+*Poem: [Moments of History](https://anomalousthoughtforms.com/releases/ATF003/)*
+
 ## Collectives
 
-Individuals can never be considered individually.
+Individuals can never wholly be understoon individually.
 
 They are part of populations of similarly instantiated, finite life forms.  Themselves part of rich, diverse ecologies of life forms.
 
@@ -108,6 +110,8 @@ Generation after generation. It marches unpredictably forward into the future.
 
 *Note: Fascinating exploration of stigmergic systems going within the Formal Protocol Theory Research Group of the [Protocol Institute](https://protocol-institute.org)*
 
+Thought: [On Portals and Pathways Through Reality](https://thinking.drwip.com/reflections/on-portals-and-pathways-through-reality/)
+
 ## Inter-relations
 
 All beings are in relation. 
@@ -116,11 +120,11 @@ To their environment and their past, but also to the other individuals they enco
 
 Environments are populated and co-inhabited. They are the stage upon which the interactions of life plays out.
 
-This capacity for encounter and interaction adds rich, generative possibilities into the dance of life.
+This capacity for encounter and interaction weaves rich, generative possibilities into the dance of life.
 
-It introduces new spheres of joint activity to be discovered and explored. Individuals must not only attempt to make sense of their capabilities and possibilities to act with effect on their environment, but the possibilities and effects of others actions and the potential and risks of interaction.
+It introduces new spheres of joint activity to be discovered and explored. Individuals must not only attempt to make sense of their capabilities and possibilities to act with effect on their environment, but reason about the possibilities and effects of others actions. Interaction comes with both potential and risk.
 
-And so each individual finds themselves navigating the present, constrained by their bodies, their environment and the entangled web of relationships to other beings and to the past. 
+And so each individual finds themselves navigating the present, constrained by their bodies, their environment and the entangled web of relationships to other beings and to their pasts. 
 
 Within this matrix of constraints, there exist a myriad of possibilities for activity to be discovered, explored and exploited.
 
@@ -138,17 +142,17 @@ They are aware of themselves as individual, distinct and separate from their env
 
 They are aware that they are situated within time, drawing on their remembered experience of the past to make sense of the present and anticipate possible futures. 
 
-*Book: A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains - Max S. Bennett*
+*Book: [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.abriefhistoryofintelligence.com/)*
 
 ## Worlds of Meaning
 
 Intelligent individuals perceive, construct, inhabit and enact rich worlds of meaning that go far beyond the meanings imbued in the environment by lifes drive to sustain and reproduce itself.
 
-In order to effectively model and reason about the world, it is important to recognise, remember and respond to the world and its members appropriately. 
+In order to effectively model and reason about the world, it is important to recognise, remember and respond to the environment and its inhabitants appropriately. 
 
-To identify something, orient your understandings to the meanings that are salient to the thing identified and the spatial temporal context of the present moment and act accordingly. 
+To identify something, orient your understandings to the meanings that are salient to the identified object and the spatial temporal context of the present moment. This orientation attunes the individual's experience to a set of possibilities from which actions are selected. 
 
-Identity is contextual, dynamic and constaintly recallibrated by our mediated perception of reality and remembered pasts.  
+Identity is contextual, dynamic and constantly recallibrated by our mediated perception of reality and remembered pasts.  
 
 Identity is dependent on the ability to recognise something as a constancy through time, remembering past encounters and associating them with the identified object as you identify it in the present.
 
@@ -170,13 +174,11 @@ However, just like the physical environment, the mental landscape needs continue
 
 There are many ways of knowing. Many worlds of meaning we can inhabit. Each revealing different values, each justifying different activities and pointing towards different future potentials. 
 
-There are no right answers. 
-
 *Note: Sovereignty and freedom key here. We are free do to the things we can do. We are sovereign if we are capable to reason about our actions, to select our values and the worlds of space, time and meaning we choose to inhabit. The pathways we wish to follow. Sovereignty requires solidarity. Those who came before us to maintain the trails, build the roads, remember the past and dream about the future*
 
-*Book: On Freedom*
+*Book: [On Freedom](https://timothysnyder.org/on-freedom)*
 
-*Diagrams:* [Identity](https://iiexhibition.studio/exhibit/4), [Experience](https://iiexhibition.studio/exhibit/2)
+*Diagrams: [Identity](https://iiexhibition.studio/exhibit/4), [Experience](https://iiexhibition.studio/exhibit/2) [Identification](https://iiexhibition.studio/exhibit/9)*
 
 *Trail: https://thinking.drwip.com/posts/on-identity-memory-and-meaning/*
 
@@ -190,9 +192,11 @@ When intelligent individuals interact they are attempting to coordinate over som
 
 Individuals engage in a sequential, turn taking dance of observation, expression and action attempting to influence and align upon the definitions through which their interaction will be understood. Whilst also inferring and evaluating the intent of the others through their expressions and actions.
 
-Human language is unique in that it enables us to direct attention and attempt to describe any object located within the five dimensions of reality. That is an event, identified object or idea that occurred in any spatio-temporal coordinates - past, present or future - and the meanings through which this object should be understood.
+Human language is unique in that it enables us to direct attention and attempt to describe any object located within the dimensions of reality: space, time and meaning. That is an event, thing or idea that occurred in any spatio-temporal coordinates - past, present or future - and the meanings through which this object should be understood.
 
 Human interaction allows us to convey and articulate frames of our subjective experience and attempt to confirm that they are aligned. Interaction becomes a process of aligning subjectivity, attuning them to each other, moving towards an intersubjective experience of reality that supports coordination over joint activity.
+
+Language lets us talk about events that happened, things that we can point at and touch and ideas that can never be touched. It lets us plan activity in the future and record activities that occured in past. It is the means by which we hold actors to account for their activities. Language provides the infrastructure of humanity's enhanced intersubjectivity from which much of our capabilities have sprung.
 
 In particular, intersubjectivity is the alignment of the web accountabilities that entangle a sphere of activity being coordinated. Such that individuals are selecting actions from a set of possibilities unconsciously anticipated by both parties, which become vulnerable to inference and scrutiny when one party is surprised by the other’s action. Accountabilities here are the set of rights and duties that have been indicated by claiming or assigning specific labels identifying and activating specific identities and systems of meaning. Where rights can be understood as the expectation to be able to act in specific ways without consequence and duties are the expectation of consequences unless specific actions are performed.
 
@@ -206,11 +210,11 @@ One of the beautiful things about human interaction and this rough consensus syn
 
 The divergences in meanings conveyed and understood produce a creative differential from which entirely new ideas and ways of seeing the world can enter.
 
-*Book: Consequences of Language, N. J. Enfield*
+*Book: [Consequences of Language: From Primary to Enhanced Intersubjectivity](https://direct.mit.edu/books/oa-monograph/5499/Consequences-of-LanguageFrom-Primary-to-Enhanced)*
 
-*Book: Telling is Listening, A Wave in The Mind. Ursula Le Guinn*
+*Book: [Telling is Listening, A Wave in The Mind. Ursula Le Guinn](https://www.ursulakleguin.com/the-wave-in-the-mind)*
 
-*Diagram: [Interaction](https://iiexhibition.studio/exhibit/3)*
+*Diagram: [Interaction](https://iiexhibition.studio/exhibit/3)* 
 
 ## Trust
 
@@ -232,7 +236,7 @@ Trust expands the time horizon within which individuals can perceive, model and 
 
 Trust is foundational to the complex human societies that we find ourselves embedded in today. 
 
-*Book: Trust & Power Niklas Luhmann*
+*Book: [Trust & Power, Niklas Luhmann](https://www.wiley.com/en-gb/shop/general-sociology/trust-and-power-p-9781509519453)*
 
 *Diagram: [Placing Trust](https://iiexhibition.studio/exhibit/6)*
 
@@ -282,9 +286,9 @@ The impact of technologies on the mediated interactive sphere has strange, unpre
 
 Technologies mediate between a user, often a human and some purpose, intention or function that prompts the design and sythesise of artefacts that provide user interfaces and protocols of use for augmenting the capabilities to act with effect within an environment.
 
-*Note: Wet vs Dry systems. E.g. alive vs designed.*
+*Trail: [Preserving our Pattern of Life in Dry Digital Realms](https://thinking.drwip.com/reflections/mdma/)*
 
-*Book: Herbert Simon, Sciences of the Artificial*
+*Book: [Sciences of the Artificial, Herbert Simon](http://direct.mit.edu/books/monograph/4551/The-Sciences-of-the-Artificial)*
 
 ## Third Order Technologies
 
@@ -300,6 +304,8 @@ Third order technologies are relatively rare throughout history. Until recently.
 
 The industrial revolution, followed by the age of advanced information communication technologies has proliferated third order technologies that orchestrate complex networks of activity across space and time. 
 
+*Book: [The Fourth Revolution, Luciano Floridi](http://global.oup.com/academic/product/the-fourth-revolution-9780199606726)*
+
 ## The Digital Dimension
 
 Powerful third order technologies have not only extended our ability to sense into and act upon our physical environment, they have constructed an entirely new environment within which activity takes place.
@@ -312,7 +318,7 @@ The rules under which it operates are opaque, transient and difficult to reason 
 
 Our digital devices disorient us as we are displaced from our bodies and transported into information landscapes and dark forests with wolves hungry for our pattern of life.
 
-*Trail: An amazing talk on the HumanOS and the wolves the prowl the digital domain by JeffO for the W3C CCG https://thinking.drwip.com/reflections/mdma/*
+*Trail: An [amazing talk](https://meet.w3c-ccg.org/archives/w3c-ccg-atlantic-2026-07-07.mp4) on the HumanOS, Mixed Digital Martial Arts and the wolves that prowl the digital domain by JeffO for the W3C CCG*
 
 These information landscapes are carefully controlled petri dishes and all to often we become the focus of their experimentation.
 
@@ -354,7 +360,9 @@ However, we can, and should, develop better mental models for how they function.
 
 *Question: What are some weird, wonderful futures populated with hybric human-AI intelligences*
 
-*Trail: https://thinking.drwip.com/reflections/on-hybrid-human-ai-societies/*
+*Trail: [On Hybrid Human-AI Societies](https://thinking.drwip.com/reflections/on-hybrid-human-ai-societies/)*
+
+Trail: [The Structures that Let Imperfect Agents Coordinate](https://thinking.drwip.com/reflections/structures-for-coordinating-imperfect-agents/)
 
 ## Endings ...
 
@@ -366,4 +374,4 @@ I am looking forward to continuing my exploration of this rich and expansive ter
 
 Your perspectives, viewpoints and ideas area always welcome here.
 
-My thanks to Callum and [Centurinae](https://centuriae.github.io/) for an incredible weekend at the Hook Hotel.
+My thanks to Callum Rhys Tilbury, [Centuriae](https://centuriae.github.io/) and all the wonderful thinkers and writers I met over an incredible weekend at the Hook Hotel.
